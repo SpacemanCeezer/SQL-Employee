@@ -2,7 +2,7 @@
 CREATE DATABASE employee_db;
 USE employee_db;
 
--- Drop tables if they exist (optional, use only if you want to recreate tables)
+-- Drop tables if they exist 
 DROP TABLE IF EXISTS employee;
 DROP TABLE IF EXISTS role;
 DROP TABLE IF EXISTS department;
