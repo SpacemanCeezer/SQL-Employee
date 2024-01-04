@@ -23,7 +23,8 @@ In order to properly use the database the user must first do a number of steps t
 ## Example
 ![image](https://github.com/SpacemanCeezer/SQL-Employee/assets/64385882/3d90f1f7-fafc-4f5f-a5d2-d3bfdc9446f5)
 
-https://watch.screencastify.com/v/FjJLDlHlmmHbbPgyU3PQ
+https://watch.screencastify.com/v/cUOqpw8kBmQiJcuoUpxa
+
 
 ## Links
 GitHub: https://github.com/SpacemanCeezer
